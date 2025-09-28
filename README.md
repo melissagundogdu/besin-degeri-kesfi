@@ -36,12 +36,3 @@ Analiz Özellikleri
 -Kategorik gruplandırma ve filtreleme
 -İndirilebilir istatistiksel özetler ve görselleştirmeler
 
-##  Ekran Görüntüleri
-
-| Ana Sayfa | Veri Yükleme |
-|-----------|-------------|
-| ![Ana Sayfa](https://github.com/user-attachments/assets/7e0ec851-b000-4dde-a143-5689da5fa577) | ![Veri Yükleme](https://github.com/user-attachments/assets/90452452-c843-4574-b43d-c55dc2a09f89) |
-
-| Veri Analizi | Grafikler |
-|-------------|-----------|
-| ![Veri Analizi](https://github.com/user-attachments/assets/cd0a0d39-4b9c-47d7-947e-6a1ab150623a) | ![Grafikler](https://github.com/user-attachments/assets/0e550e07-726e-458a-b0eb-f7960c39a8f9) |
