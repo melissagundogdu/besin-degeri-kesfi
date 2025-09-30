@@ -36,3 +36,16 @@ Analiz Özellikleri
 -Kategorik gruplandırma ve filtreleme
 -İndirilebilir istatistiksel özetler ve görselleştirmeler
 
+Ekran Görüntüleri
+
+Giriş Ekranı
+![Uygulamanın başlangıç ekranı](assets/img1.png)
+
+Veri Giriş Ekranı
+![Kullanıcıların veri girdiği ekran](assets/img2.png)
+
+Analiz Sonuçları
+![Analiz sonuçlarının gösterildiği grafik ve tablo](assets/img3.png)
+
+Özet Rapor
+![Proje özet raporu](assets/img4.png)
